@@ -1,0 +1,93 @@
+{
+  "id": "",
+  "name": "",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "1165",
+      "name": "管理员",
+      "font_class": "guanliyuan",
+      "unicode": "f00ec",
+      "unicode_decimal": 983276
+    },
+    {
+      "icon_id": "111904",
+      "name": "五角星",
+      "font_class": "star",
+      "unicode": "e61a",
+      "unicode_decimal": 58906
+    },
+    {
+      "icon_id": "314903",
+      "name": "三角上",
+      "font_class": "triangle-top",
+      "unicode": "e635",
+      "unicode_decimal": 58933
+    },
+    {
+      "icon_id": "5330821",
+      "name": "圆形",
+      "font_class": "yuanxing",
+      "unicode": "e7c3",
+      "unicode_decimal": 59331
+    },
+    {
+      "icon_id": "5387706",
+      "name": "监控",
+      "font_class": "jiankong",
+      "unicode": "eb37",
+      "unicode_decimal": 60215
+    },
+    {
+      "icon_id": "7171170",
+      "name": "粮油流通统计",
+      "font_class": "tongji",
+      "unicode": "e629",
+      "unicode_decimal": 58921
+    },
+    {
+      "icon_id": "7976608",
+      "name": "统计",
+      "font_class": "tongji1",
+      "unicode": "e68c",
+      "unicode_decimal": 59020
+    },
+    {
+      "icon_id": "8094218",
+      "name": "污染源",
+      "font_class": "wuranyuan",
+      "unicode": "e64e",
+      "unicode_decimal": 58958
+    },
+    {
+      "icon_id": "8643707",
+      "name": "污染源1",
+      "font_class": "wuranyuan1",
+      "unicode": "e641",
+      "unicode_decimal": 58945
+    },
+    {
+      "icon_id": "14095222",
+      "name": "分析",
+      "font_class": "fenxi",
+      "unicode": "e76d",
+      "unicode_decimal": 59245
+    },
+    {
+      "icon_id": "15392665",
+      "name": "预警",
+      "font_class": "yujing",
+      "unicode": "e61c",
+      "unicode_decimal": 58908
+    },
+    {
+      "icon_id": "16055314",
+      "name": "反向圆角正方形",
+      "font_class": "fanxiangyuanjiaozhengfangxing",
+      "unicode": "e64f",
+      "unicode_decimal": 58959
+    }
+  ]
+}
